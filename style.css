@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav ul{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+
+}
+header img{
+    width: 100%;
+}
+nav img{
+    width: 30px;
+    cursor: pointer;
+
+}
+.dark{
+    background: black;
+    color: white;
+}
